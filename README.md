@@ -13,6 +13,7 @@
 
 ## 🚀 安装 Install
 
+
 下载 [Release](https://github.com/xausky/ShadowsocksGostPlugin/releases) 内预编译好的APK安装到设备，同时也要安装 [Shadowsocks Android](https://github.com/shadowsocks/shadowsocks-android)
 
 Download prebuilt APK here [Release](https://github.com/xausky/ShadowsocksGostPlugin/releases) and then install it to the device, at same time [Shadowsocks Android](https://github.com/shadowsocks/shadowsocks-android) is required to be installed as well
